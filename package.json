@@ -1,0 +1,24 @@
+{
+  "name": "wif-price",
+  "version": "1.0.0",
+  "description": "check  price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dolapp",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^5.3.0",
+    "loadsh": "0.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dolapp/wif-price"
+  },
+  "bugs": {
+    "url": "https://github.com/Dolapp/wif-price/issues"
+  },
+  "homepage": "https://github.com/Dolapp/wif-price/blob/main/README.md"
+}
